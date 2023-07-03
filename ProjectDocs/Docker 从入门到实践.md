@@ -295,3 +295,4 @@ $ docker image rm $(docker image ls -q redis)
 $ docker image rm $(docker image ls -q -f before=mongo:3.2)
 
 充分利用你的想象力和 Linux 命令行的强大，你可以完成很多非常赞的功能。
+this is new line for test 
